@@ -7,7 +7,7 @@ Built for **Level Designers** to analyze player behavior and make informed desig
 
 ## 🚀 Live App
 
-👉 [Add your deployed Streamlit link here]
+👉 https://player-journey-tool-kzdgbzfvhom2wshhgbnkq6.streamlit.app
 
 ---
 
